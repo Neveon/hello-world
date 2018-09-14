@@ -1,2 +1,6 @@
 # hello-world
-Learning to git good
+
+Hello!
+Learning to git good over here.
+
+I love JavaScript and messing around with HTML/CSS designs!
